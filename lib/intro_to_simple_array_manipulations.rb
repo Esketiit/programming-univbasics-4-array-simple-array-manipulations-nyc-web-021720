@@ -1,4 +1,4 @@
-def push (array, element)
-  array << element
+def using_push (array, element)
+  array.push(element)
   return array
 end
